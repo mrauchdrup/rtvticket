@@ -1,0 +1,8 @@
+filename = "TicketsysteemOmropFrysln-2012-12-04T09-25-49"
+description = ""
+datestamp = "1354609550"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.12"
+sites[0][name] = "Ticket systeem Omrop Fryslân"
+sites[0][url] = "http://ticket.rtvfryslan.nl/"

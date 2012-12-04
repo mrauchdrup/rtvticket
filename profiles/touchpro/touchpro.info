@@ -1,0 +1,4 @@
+name = SooperThemes StarterKit Urgency
+description = Create a pre-setup and pre-configured Drupal site from a StarterKit.
+core = 7.x
+files[] = touchpro.profile
